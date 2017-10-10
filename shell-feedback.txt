@@ -1,4 +1,4 @@
-neg: A bit wrapped up in the end.
+: A bit wrapped up in the end.
 neg: Maybe need more structure?
 neg: More exercises to get a hand of it (but requires more time).
 pos: simple stuff - easy to understand.
@@ -56,3 +56,4 @@ pos: Good workflow, issues of individuals did not interrupt the class much
 pos: Could catch on easily.
 pos: Good answers to questions.
 pos: Answering questions nicely
+neg: test Git
